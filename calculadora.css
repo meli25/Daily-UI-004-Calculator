@@ -54,3 +54,8 @@ a{
 	text-decoration: none;
 	background-color: black;
 }
+
+.number{
+	background-color: #5bb0ba;
+	border: 5px inset #2A7A83;
+}
